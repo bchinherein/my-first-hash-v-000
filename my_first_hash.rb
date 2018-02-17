@@ -1,5 +1,5 @@
 def my_hash
-  your_hash = {"Robert Downey Jr." => "Iron Man", "Chris Evans" => "Captain America", "Paul Rudd" => "Ant Man"}
+  marvel_heroes = {"Robert Downey Jr." => "Iron Man", "Chris Evans" => "Captain America", "Paul Rudd" => "Ant Man"}
 
 
 end
